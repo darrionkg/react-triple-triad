@@ -13,7 +13,7 @@ The card minigame from Final Fantasy VIII. Each player is dealt a random startin
 
 ## Setup/Installation Requirements
 
-* Clone the project from https://github.com/j-farkas/ttreact
+* Clone the project from https://github.com/darrionkg/react-triple-triad
 * Import the database in the root directory.
 * Host using dotnet
 * Run in browser
